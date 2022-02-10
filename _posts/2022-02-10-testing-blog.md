@@ -6,6 +6,7 @@ math: true
 date: 2022-02-10 15:39 +0800
 ---
 
+11111111
 
 $$
 i\hbar \frac{\partial \Psi}{\partial t} = -\frac{\hbar^2}{2m}

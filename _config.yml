@@ -28,14 +28,14 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-# twitter:
-#   username: vszhub
-#   card: summary
+twitter:
+  username: 1111
+  card: summary
 logo: logo.png
 social:
   name: hongwei Zhang
   links:
-    # - https://twitter.com/vszhub
+    - https://twitter.com
     - https://github.com/hwzhang9
 google_site_verification: xxxxx
 lang: en
