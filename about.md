@@ -3,6 +3,6 @@ layout: page
 title: About
 ---
 
-**hongwei Zhang** 
+**My blogs** 
 
 Welcome to my blog.
